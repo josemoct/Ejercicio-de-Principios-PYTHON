@@ -4,7 +4,7 @@ José María Ricaurte Mora - 20162020099
 Nicolás Ramirez Manrique - 20162020033
 
 Principio 1:
-
+En el ejercicio se mantiene una referencia abstracta (animal) y una concreta (Perro), por el principio de sustitución de Liskov se puede instancia un objeto reverenciado de la clase perro sin conocer las características de la clase animal. 
 
 
 Principio 2:
